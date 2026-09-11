@@ -241,3 +241,6 @@ This repository serves as the official landing page for TMPGEnc DVD Author. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of TMPGEnc DVD Author today!**
+
+---
+**Last updated:** 2026-09-11 08:22:01 UTC
