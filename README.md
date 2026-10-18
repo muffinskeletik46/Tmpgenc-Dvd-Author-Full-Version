@@ -243,4 +243,4 @@ This repository serves as the official landing page for TMPGEnc DVD Author. The 
 **Get the most recent version of TMPGEnc DVD Author today!**
 
 ---
-**Last updated:** 2026-10-18 14:58:18 UTC
+**Last updated:** 2026-10-18 17:45:52 UTC
